@@ -2,8 +2,8 @@
 ### Graduando em Engenharia de Software e iniciante em Desenvolvimento Front-End.
 <br>
 <div style="display: flex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henry-nicollas-issicaba&theme=midnight-purple&show_icons=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-nicollas-issicaba&layout=compact&theme=midnight-purple">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=henry-nicollas-issicaba&theme=midnight-purple&show_icons=true">
+  <img height="180em" width="435em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-nicollas-issicaba&layout=compact&theme=midnight-purple">
 </div>
 <br>
 <div>
