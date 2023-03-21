@@ -13,7 +13,7 @@
 <br>
 <div>
   <a href="https://github.com/Henry-Nicollas-Issicaba?tab=repositories" target="_blank"><img width="100px" height="35px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="" target="_blank"><img width="100px" height="35px" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <a href="https://codepen.io/Henry_Issicaba" target="_blank"><img width="100px" height="35px" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/henry-nicollas-issicaba-05a54024a/" target="_blank"><img width="100px" height="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="" target="_blank"><img width="100px" height="35px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
