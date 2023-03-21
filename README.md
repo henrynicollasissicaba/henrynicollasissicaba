@@ -1,9 +1,9 @@
 ## Olá, eu sou Henry Nicollas! 
 ### Graduando em Engenharia de Software e iniciante em Desenvolvimento Front-End.
 <br>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henry-nicollas-issicaba&theme=midnight-purple&show_icons=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-nicollas-issicaba&layout=compact&theme=midnight-purple">
+<div style="display: flex; justify-content: center; align-items: center">
+  <img height="180em" width="75%" src="https://github-readme-stats.vercel.app/api?username=henry-nicollas-issicaba&theme=midnight-purple&show_icons=true">
+  <img height="180em" width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-nicollas-issicaba&layout=compact&theme=midnight-purple">
 </div>
 <br>
 <div>
