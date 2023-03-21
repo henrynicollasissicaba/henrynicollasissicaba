@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**Henry-Nicollas-Issicaba/Henry-Nicollas-Issicaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá, eu sou Henry Nicollas! 
+### Graduando em Engenharia de Software e iniciante em Desenvolvimento Front-End.
+<br>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henry-nicollas-issicaba&theme=midnight-purple&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-nicollas-issicaba&layout=compact&theme=midnight-purple">
+</div>
+<br>
+<div>
+  <img align="center" alt="Henry-HTML" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Henry-CSS" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>
+<br>
+<div>
+  <a href="https://github.com/Henry-Nicollas-Issicaba?tab=repositories" target="_blank"><img width="90px" height="35px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/henry-nicollas-issicaba-05a54024a/" target="_blank"><img width="90px" height="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="" target="_blank"><img width="90px" height="35px" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+</div>
