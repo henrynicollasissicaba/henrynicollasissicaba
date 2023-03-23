@@ -1,5 +1,5 @@
 ## Olá, eu sou Henry Nicollas! 
-### Graduando em Engenharia de Software e iniciante em Desenvolvimento Front-End.
+### Graduando em Engenharia de Software e iniciante em Desenvolvimento Front-end.
 
 ![Henry Nicollas Issicaba Neves's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrynicollasissicaba&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrynicollasissicaba&theme=midnight-purple&layout=compact)](https://github.com/henrynicollasissicaba/github-readme-stats)
