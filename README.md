@@ -3,8 +3,10 @@
 
 <br>
 
-![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrynicollasissicaba&show_icons=true&theme=synthwave&locale=pt-br&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrynicollasissicaba&layout=compact&locale=pt-br&theme=synthwave)
+<div display="flex">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrynicollasissicaba&show_icons=true&theme=synthwave&locale=pt-br&rank_icon=github">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrynicollasissicaba&layout=compact&locale=pt-br&theme=synthwave">
+</div>
 
 
 ## Tecnologias que utilizo atualmente :bulb:
