@@ -1,5 +1,5 @@
 ## Olá :raising_hand:, me chamo Henry Nicollas! 
-### Sou graduando em Engenharia de Software e desenvolvedor Front-end. :computer:
+### Sou graduando em Engenharia de Software e desenvolvedor Frontend. :computer:
 
 <br>
 
