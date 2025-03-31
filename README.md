@@ -1,5 +1,5 @@
 ## Olá :raising_hand:, me chamo Henry Nicollas! 
-### Sou graduando em Engenharia de Software e desenvolvedor Frontend. :computer:
+### Possuo formação técnica em informática e sou desenvolvedor Front-end com experiências em projetos pessoais que envolvem habilidades da minha área de atuação. Além disso, possuo pequenos projetos que estão resolvendo problemas no mundo real, ajudando as pessoas com a utilização das tecnologias do mercado. :computer:
 
 <br>
 
