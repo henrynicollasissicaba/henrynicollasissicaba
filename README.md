@@ -1,5 +1,7 @@
 ## Olá :raising_hand:, me chamo Henry Nicollas! 
-### Possuo formação técnica em informática e sou desenvolvedor Front-end com experiências em projetos pessoais que envolvem habilidades da minha área de atuação. Além disso, possuo pequenos projetos que estão resolvendo problemas no mundo real, ajudando as pessoas com a utilização das tecnologias do mercado. :computer:
+### Desenvolvedor Web Front-end em transição ativa para o mercado de trabalho, com um ano de experiência prática em projetos autorais que me permitiram experimentar, errar, evoluir e criar com propósito. 
+### Durante esse período, mergulhei de cabeça em tecnologias modernas como Next.JS, ReactJS, TypeScript e Tailwind CSS. Cada projeto foi uma nova chance de consolidar conhecimentos e encontrar soluções criativas para desafios reais, fortalecendo minha lógica, atenção aos detalhes e visão estética.
+### Estou em busca de uma oportunidade para aplicar tudo o que aprendi e continuar crescendo, não só como profissional de tecnologia, mas também como ser humano em constante evolução. Quero somar com meu olhar curioso, minha vontade de aprender e minha paixão por construir interfaces que façam sentido e encantem os usuários. :computer:
 
 <br>
 
@@ -15,7 +17,6 @@
   <img align="center" width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
   <img align="center" width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img align="center" width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
