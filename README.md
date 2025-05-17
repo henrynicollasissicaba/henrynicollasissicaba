@@ -1,7 +1,12 @@
-## Olá :raising_hand:, me chamo Henry Nicollas! 
-### Desenvolvedor Web Front-end em transição ativa para o mercado de trabalho, com um ano de experiência prática em projetos autorais que me permitiram experimentar, errar, evoluir e criar com propósito. 
-### Durante esse período, mergulhei de cabeça em tecnologias modernas como Next.JS, ReactJS, TypeScript e Tailwind CSS. Cada projeto foi uma nova chance de consolidar conhecimentos e encontrar soluções criativas para desafios reais, fortalecendo minha lógica, atenção aos detalhes e visão estética.
-### Estou em busca de uma oportunidade para aplicar tudo o que aprendi e continuar crescendo, não só como profissional de tecnologia, mas também como ser humano em constante evolução. Quero somar com meu olhar curioso, minha vontade de aprender e minha paixão por construir interfaces que façam sentido e encantem os usuários. :computer:
+# Olá :raising_hand:, me chamo Henry Nicollas! 
+<div>
+  <p>Desenvolvedor Web Front-end em transição ativa para o mercado de trabalho, com um ano de experiência prática em projetos autorais que me permitiram experimentar,       errar, evoluir e criar com propósito.
+  </p>
+  <p>Durante esse período, mergulhei de cabeça em tecnologias modernas como Next.JS, ReactJS, TypeScript e Tailwind CSS. Cada projeto foi uma nova chance de consolidar      conhecimentos e encontrar soluções criativas para desafios reais, fortalecendo minha lógica, atenção aos detalhes e visão estética.
+  </p>
+  <p>Estou em busca de uma oportunidade para aplicar tudo o que aprendi e continuar crescendo, não só como profissional de tecnologia, mas também como ser humano em         constante evolução. Quero somar com meu olhar curioso, minha vontade de aprender e minha paixão por construir interfaces que façam sentido e encantem os usuários.      :computer:
+  </p>
+</div>
 
 <br>
 
